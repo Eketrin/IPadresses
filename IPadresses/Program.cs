@@ -30,7 +30,7 @@ namespace IPadresses
         static void Main(string[] args)
         {
             string[] values = { "251.5.65.88", "1.1.1.1", "256.1.0.3", "235.33.22.1", 
-                "125+145+65+5", "0.0.0.0", "0/0/0/0"};
+                "125+145+65+5", "0.0.0.0", "0/0/0/0", "255.255.255.255"};
 
             foreach (var item in values)
             {
